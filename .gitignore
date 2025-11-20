@@ -52,6 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs
 /.vs/ExerciciosDeLogica/v17/.futdcache.v2
 /.vs/ExerciciosDeLogica/v17/.suo
 /.vs/ExerciciosDeLogica/v17/.wsuo
